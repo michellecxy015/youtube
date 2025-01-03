@@ -52,7 +52,7 @@ python code/scrape_youtube.py
 ```
 
 ### Step 2: Construct the Network and Network analysis
-Open `youtube_network_1.ipynb` and `youtube_network_2.ipynb` in colab and follow the steps to build the recommendation network graph and analyze the network using metrics like centrality, shortest paths, and more
+- Open `youtube_network_1.ipynb` and `youtube_network_2.ipynb` in colab and follow the steps to build the recommendation network graph and analyze the network using metrics like centrality, shortest paths, and more
 ---
 
 ## Dataset Structure
